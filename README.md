@@ -17,10 +17,10 @@ Next to `VITE_SUPABASE_ANON_KEY=` you need to add a Supabase Anon key, you can g
 Next to `VITE_SUPABASE_URL=` you need to add a Supabase URL, you will also get it when you create the project.<br>
 
 
-At the tables section create a new table called code and add the following colums: <br>
+At the tables section create a new table called code and add the following columns: <br>
 
 - code: It is a text area and it does not have a default value
 - lang: It is a text area and it does not have a default value
 
-That's all! <br>
-You can run `npm run dev` and use it as a SvelteKit app. <br>
+That's all!  
+You can run `npm run dev` and use it as a SvelteKit app.
